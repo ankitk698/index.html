@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatting Tags</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <h1><i class="fa-brands fa-instagram fa-beat" style="color: #ff1fad;"></i>&lArr;Formatting Tags&rArr;&lt; &#128531; windows+.😊😂❤️😁😜😎😉😘<i class="fa-brands fa-whatsapp"></i></h1>
+    <p>Lorem, ipsum <b>dolor</b> <strong>sit amet consectetur</strong> <i>adipisicing elit</i>. Natus in <em>eligendi odit totam</em>! Architecto , <u>voluptas, ea laboriosam</u> nisi omnis quaerat <strike> quae exercitationem</strike> , 
+       <del>esse deserunt</del><ins>repudiandae! Modi ullam</ins> provident eum H<sub>2</sub>O (a+b)<sup>2</sup>fugit ipsa atque <q>temporibus</q>, explicabo voluptatibus omnis, veniam esse minima labore iusto! Rem beatae ex doloremque quisquam, facere eum aliquam iure adipisci nihil sapiente iusto ipsa distinctio? Inventore ab odio dignissimos at, qui eligendi ut enim in, libero quis sed ipsum. Tenetur rem aspernatur blanditiis voluptas maiores architecto neque, aliquid quos cupiditate accusantium excepturi laborum quibusdam ex recusandae quo suscipit totam quasi vitae labore deleniti nulla voluptate! Voluptate, expedita!</p>
+    <hr>
+    <address>gvdfdu,uhdchsd,<br>juyui</br> maharashtra</address>
+<code> public static void main(string)</code>
+<kbd>cntrl+c</kbd>
+<pre>roses are red
+voilets are blue
+but im there for you
+</pre>
+</body>
+</html>
